@@ -1,0 +1,22 @@
+{
+	"data_path": "data",
+	"image_size": 224,
+	"in_channels": 3,
+	"num_classes": 6,
+	"arch": "regnety032",
+	"lr":  0.001,
+	"weighted_loss": 1,
+	"momentum": 0.9,
+	"weight_decay": 0.001,
+	"distributed": 0,
+	"batch_size": 92,
+	"num_workers": 8,
+	"device": "cuda:0",
+	"max_epoch_num": 100,
+	"max_plateau_count": 8,
+	"plateau_patience": 2,
+	"steplr": 50,
+	"log_dir": "log",
+	"checkpoint_dir": "checkpoint",
+	"model_name": "final_dog_0531"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ResidualMaskingNetwork" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ResidualMaskingNetwork/mmcv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ResidualMaskingNetwork/mmdetection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/classification/models/pytorch-image-models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo/tmp/loc-git" vcs="Git" />
+  </component>
+</project>
